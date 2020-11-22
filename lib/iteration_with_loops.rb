@@ -5,7 +5,7 @@ minimum_int = []
 row_index = 0
 while row_index < src.count do
   element_index = 0
-  longest_string_element = ""
+  longest_string_element = ()
   while element_index < src[row_index].count do
  
     
